@@ -2,7 +2,7 @@
 title: Protótipo
 email: vicfermino@icloud.com
 github_username:  vfermino
-base_url: "vfermino.github.io"
+baseurl: "vfermino.github.io"
 encoding: "utf-8"
 authors:
   victor:
