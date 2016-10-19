@@ -16,7 +16,12 @@ layout: home
                       {{ post.excerpt | number_of_words }} 
                     {% endcapture %} 
                     {% if excerpt_words != content_words %}
-                    <a href="{{ post.url | prepend: site.baseurl }}"><div class="post-icon" style="background-image: url('{{ post.header-img }}')"><span>Leia mais <i class="fa fa-arrow-circle-right"></i></span></div></a>
+                    {% if post.header-image %}
+                    <figure class="figure">
+                            <img class="media" src="{{ post.header-image }}" alt="">
+                            <figcaption class="figcaption">Hermine hoping for courage.</figcaption>
+                    </figure>
+                    {% endif %}
             </p></div>
                     {% endif %}
         </div>
