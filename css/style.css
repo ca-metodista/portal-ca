@@ -43,13 +43,11 @@ p{
     margin: 30px 2% 0 2%;
 }
 .collumns{
-
 }
-
 .collumn{
     font-size: 14px;
     line-height: 20px;
-    width: 17.5%;
+    width: 33%;
     display: inline-block;
     padding: 0 1% 0 1%;
     vertical-align: top;
@@ -65,15 +63,12 @@ p{
     font-family: 'Arial', serif;
     display: block;
     margin: 0 auto;
-
-
 }
 .collumn .headline.hl1{
     font-weight: 700;
     font-size: 30px;
     text-transform: uppercase;
     padding: 10px 0 10px 0;
-
 }
 
 .collumn .headline.hl2{
