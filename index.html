@@ -1,40 +1,24 @@
 ---
 layout: home
 ---
-{% for post in paginator.posts %}
-{% assign author = site.authors[post.author] %}
-<div class="post-preview">
-        <h2 class="post-title">{{ post.title }}</h2>
-        <p>
-            {{ post.excerpt }} 
-            {% capture content_words %} 
-              {{ post.content | number_of_words }} 
-            {% endcapture %} 
-            {% capture excerpt_words %} 
-              {{ post.excerpt | number_of_words }} 
-            {% endcapture %} 
-            {% if excerpt_words != content_words %}
-            <p><a class="btn btn-sm btn-primary" href="{{ post.url | prepend: site.baseurl }}" role="button">Leia mais <i class="fa fa-arrow-circle-right"></i></a>
-            </p>
-            {% endif %}
-        </p>
-    <p class="post-meta">Publicada por {% if post.author %}{{ author.display_name }}{% else %}{{ site.title }}{% endif %} - {{ post.date | date: "%B %-d, %Y" }}</p>
+<div class="content">
+    <div class="collumns">
+        {% for post in paginator.posts %}
+        {% assign author = site.authors[post.author] %}
+        <div class="collumn">
+                <div class="head"><span class="headline hl3">{{ post.title }}</span><p><span class="headline hl4">por {% if post.author %}{{ author.display_name }}{% else %}{{ site.title }}{% endif %}</span></p></div>
+                <p>
+                    {{ post.excerpt }} 
+                    {% capture content_words %} 
+                      {{ post.content | number_of_words }} 
+                    {% endcapture %} 
+                    {% capture excerpt_words %} 
+                      {{ post.excerpt | number_of_words }} 
+                    {% endcapture %} 
+                    {% if excerpt_words != content_words %}
+                    <a href="{{ post.url | prepend: site.baseurl }}"><div class="post-icon" style="background-image: url('{{ post.header-img }}')"><span>Leia mais <i class="fa fa-arrow-circle-right"></i></span></div></a>
+            </p></div>
+                    {% endif %}
+        </div>
+        {% endfor %}
 </div>
-<hr>
-{% endfor %}
-
-<!-- Pager -->
-{% if paginator.total_pages > 1 %}
-<ul class="pager">
-    {% if paginator.previous_page %}
-    <li class="previous">
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Postagens mais recentes</a>
-    </li>
-    {% endif %}
-    {% if paginator.next_page %}
-    <li class="next">
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Postagens anteriores &rarr;</a>
-    </li>
-    {% endif %}
-</ul>
-{% endif %}
