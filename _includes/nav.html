@@ -1,23 +1,18 @@
-<!-- Navigation -->
-<nav class="navbar navbar-default navbar-custom navbar-fixed-top">
-    <div class="container-fluid">
-        <div class="navbar-header page-scroll">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                <span class="sr-only">Navegação</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand header" href="{{ site.baseurl }}/">{{ site.title }}</a>
-        </div>
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav navbar-right">
-                {% for page in site.pages %}{% if page.title %}
-                <li>
-                    <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-                </li>
-                {% endif %}{% endfor %}
-            </ul>
-        </div>
-    </div>
-</nav>
+<div class="bar">
+    <header>
+        <h1 class="header"><a href="http://www.code-pal.com">Dead Stocker</a>
+        </h1>
+        <nav>
+            <ul> 			
+                <li><a href="#">Dead Spacer</a></li> 
+                <li><a href="#">Dead Zone</a></li> 
+                <li><a href="#">Rack Snatch</a></li> 
+                <li><a href="#">Tagger Watch</a></li> 
+            </ul>	
+        </nav>
+        <a href="http://www.facebook.com/codepal"><img src="images/fb.png"/></a>
+        <a href="http://twitter.com/sumeetchawla/"><img src="images/twitter.png"/></a>
+        <a href="http://feeds.feedburner.com/code-pal/"><img src="images/rss.png"/></a>
+        <p>SUBSCRIBE</p>
+    </header>
+</div>
