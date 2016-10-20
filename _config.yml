@@ -4,18 +4,6 @@ email: vicfermino@icloud.com
 github_username:  vfermino
 baseurl: "http://vfermino.github.io/portal-ca"
 encoding: "utf-8"
-authors:
-  victor:
-    name: Victor Fermino
-    display_name: Victor Fermino
-    description: "Desertor do curso de Análise e Desenvolvimento de Sistemas e atual estudante de Jornalismo, ambos na Universidade Metodista. Gosta de tecnologia, literatura e filmes. Possui um grande interesse por documentários e um vício em videogames independentes."
-    email: vfermino@protonmail.ch
-    web: http://cartapaulista.com.br
-    github: vfermino
-  girrana:
-    name: Girrana Rodrigues
-    display_name: Girrana Rodrigues
-
 excerpt_separator: <!--break-->
 # Build settings
 markdown: kramdown
