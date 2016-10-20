@@ -1,12 +1,18 @@
 ---
 layout: post
-title:  "Por Dentro do Submundo da Pornografia Infantil no Youtube"
+title:  "Resenha de The Portrait of the Artist as a Young Man"
 date:   2016-08-19 18:00:00
-categories: tecnologia
+categories: cultura
 author: victor
 ---
-Apesar de ser uma plataforma expansiva e livre, o Youtube costuma ser associado a moderação rígida devido a seus embates envolvendo criadores de conteúdo, artistas e gravadoras. Mesmo recorrendo a algoritmos para mitigar eventuais problemas com direitos autorais e pornografia, a verdade é que há muito conteúdo não censurado abrindo portas para comunidades criminosas.
+Se aprofundar em algum autor começando por sua obra mais famosa e consagrada é um paradigma crítico conhecido. Ao mesmo tempo que você consegue observar um magnum opus através de uma ótica mais próxima dos leitores que estão lendo sua crítica, você sofre ao experimentar as futuras obras. No meu caso, comecei a ler James Joyce com Ulysses, depois Dubliners, e só agora li The Portrait of the Artist as a Young Man. Felizmente, a experiência anterior não machucou meu aproveitamento dessa.
 
-Buscar as palavras "webcam video from" no Youtube gera uma quantidade exorbitante de resultados, e isso não é à toa: esse é o nome padrão ao salvar um vídeo de uma câmera não configurada. Uma pesquisa rápida sugere que crianças e adolescentes aspirantes a youtubers fazem vídeos e fazem upload direto dos aparelhos, sem edição ou mudança no nome do arquivo. Evidentemente, isso também se estende a pessoas que simplesmente estão fazendo backup público de suas viagens ou coisa assim, mas essa variedade apenas enevoa as atividades das pessoas que comentam nos vídeos que envolvem menores de idade.
+The Portrait of the Artist as a Young Man é uma espécie de autobiografia alegórica experimental. Assim como em Ulysses, a língua inglesa é uma ferramenta que Joyce usa para dar uma profundidade intertextual que conta uma história paralela à narrativa básica do romance. Isso é demonstrado claramente na primeira cena, onde a linguagem toma forma de um linguajar primitivo e fofo (moocows e tuckoos) para dar a ideia de infância. A própria estrutura de “era uma vez” desse texto remete aos contos de fadas que crianças ouvem e usam como artifício para contar histórias.
 
-Os comentários variam de elogios de todos os idiomas (geralmente por contas criadas sem muito cuidado no Google+, a rede social da Google associada ao Youtube) a assédio declarado.
+O enredo acompanha a vida de Stephen Dedalus, o persona de James Joyce. Inteligente, sexualmente curioso e oprimido pela doutrina da sua religião, os textos refletem seus medos exagerados. Há uma descrição do Inferno cristão muito boa nesse livro, que chega a ser caricata de tão cruel. A verdade é que o pavor de Stephen somado à sua paixão por Byron acaba criando uma imagem muito vívida e verbalizada, assim como Joyce cria seus mundos.
+
+Não há muito que possa ser dito a respeito das personagens, porque esse clássico modernista usa personagens e cenas apenas como objetos que levam as palavras (reais protagonistas da obra) ao leitor. Diferente de Ulysses, não há nenhum Blazes Boylan nem Molly Bloom enriquecendo o elenco. Como a história é formada por arcos e não necessariamente demonstra interesse do autor em criar uma narrativa consistente, algumas personagens acabam aparecendo uma vez, tomando a cena com diálogos ricos em algum tipo de subtexto, e depois desaparecendo. Não é o tipo de livro que você lê para acompanhar o desenvolvimento das personagens.
+
+James Joyce fez uma autobiografia muito experimental, que mostra as características do próprio autor de uma forma bem sutil. Sem nomes reais, sem textos superexplanatórios e sem previsibilidade clássica. Tudo isso é trocado por humor sagaz que contempla as palavras mais do que contempla as personagens.
+
+Mais do que Ulysses, The Portrait of the Artist as a Young Man é uma excelente porta de entrada para a literatura de Joyce. A estrutura mais clara da narrativa, delineada por épocas ao invés de espelhos da Odisseia, faz com que o livro seja mais facilmente lido em sessões moderadas. Além do seu mérito artístico, é também muito agradável ver como o autor mais importante da sua época e um dos maiores escritores da língua inglesa se representa biograficamente do seu próprio jeito.
