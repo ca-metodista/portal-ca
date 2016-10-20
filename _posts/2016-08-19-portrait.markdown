@@ -2,7 +2,7 @@
 layout: post
 title:  "Resenha de The Portrait of the Artist as a Young Man"
 date:   2016-08-19 18:00:00
-header-image: "http://i.imgur.com/cINmSMS.jpg"
+header-image: "https://i.imgur.com/cINmSMS.jpg"
 categories: cultura
 author: victor
 ---
