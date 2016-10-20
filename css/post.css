@@ -1,0 +1,12 @@
+.post-heading h4{
+  font-weight: 800;
+  font-style: normal;
+}
+.post-heading .meta{
+  line-height: 18px;
+  font-size: 14px;
+}
+.container .row{
+  width: 90%;
+  font-size: 12px;
+}
