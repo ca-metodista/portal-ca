@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Crônicas de Nova York"
-date:   2016-08-19 18:00:00
-header-image:"https://cdn-images-1.medium.com/max/600/1*RRmdQaZS2rkThKTDTCC9NQ.jpeg"
+title: "Crônicas de Nova York"
+date: 2016-08-19 18:00:00
+header-image: "https://cdn-images-1.medium.com/max/600/1*RRmdQaZS2rkThKTDTCC9NQ.jpeg"
 categories: viagens
 author: "Juan Domingues"
 ---
