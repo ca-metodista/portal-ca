@@ -7,7 +7,7 @@ layout: default
         <div class="row">
             <div>
                 <div class="post-heading">
-                    <h3>{{ page.title }}</h3>
+                    <h2>{{ page.title }}</h2>
                     {% if page.subtitle %}
                     <h4 class="subheading">{{ page.subtitle }}</h4>
                     {% endif %}
@@ -21,7 +21,7 @@ layout: default
     <div class="container">
         <div class="row">
             <div>
-			<img src="{{ page.header-image }}" style="float:left;width:400px;margin:8px"/>
+			<img src="{{ page.header-image }}" style="float:left;width:320px;margin:0 32px 32px 0"/>
 			{{ content | replace: '<!--break-->', '<a class="anchor" id="read-more"></a>' }}
                 <hr>
                 <ul class="pager">
