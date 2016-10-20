@@ -216,6 +216,7 @@ p{
     filter: sepia(80%) grayscale(1) contrast(1) opacity(0.8);
     mix-blend-mode: multiply;
     width: 100%;
+    transition: all .5s;
 }
 .media:hover{
     -webkit-filter: sepia(0) contrast(1) opacity(1);
