@@ -46,6 +46,7 @@ p{
 .collumn{
     font-size: 14px;
     line-height: 20px;
+    width:17.5%;
     display: inline-block;
     padding: 0 1% 0 1%;
     vertical-align: top;
@@ -57,6 +58,7 @@ p{
 }
 .collumn .headline{
     text-align: center;
+    font-style: italic;
     line-height: normal;
     font-family: 'Arial', serif;
     display: block;
