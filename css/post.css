@@ -1,6 +1,8 @@
-.post-heading h4{
+.post-heading h2{
   font-weight: 800;
   font-style: normal;
+  font-size:32px;
+  line-height:32px;
 }
 .post-heading .meta{
   line-height: 18px;
