@@ -7,9 +7,9 @@ layout: default
         <div class="row">
             <div>
                 <div class="post-heading">
-                    <h4>{{ page.title }}</h4>
+                    <h3>{{ page.title }}</h3>
                     {% if page.subtitle %}
-                    <h2 class="subheading">{{ page.subtitle }}</h2>
+                    <h4 class="subheading">{{ page.subtitle }}</h4>
                     {% endif %}
                     <span class="meta">Publicada por {% if page.author %}{{ author.name }}{% else %}{{ site.title }}{% endif %} - {{ page.date | date: "%B %-d, %Y" }}</span>
                 </div>
@@ -21,7 +21,7 @@ layout: default
     <div class="container">
         <div class="row">
             <div>
-			<img src="{{ page.header-image }}"/>
+			<img src="{{ page.header-image }}" width=500px/>
 			{{ content | replace: '<!--break-->', '<a class="anchor" id="read-more"></a>' }}
                 <hr>
                 <ul class="pager">
