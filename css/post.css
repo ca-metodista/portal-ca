@@ -7,8 +7,10 @@
   font-size: 14px;
 }
 .container{
-  margin:0 20px;
-  width:750px;
+  margin:0 auto;
+  width:90%;
+  padding:15px;
+  line-height:20px;
 }
 .container .row{
   position: relative;
