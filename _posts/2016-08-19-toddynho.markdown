@@ -1,9 +1,0 @@
----
-layout: post
-title: "só faço jornalismo pra tomar toddynho"
-date: 2016-08-19 18:00:00
-header-image: "http://i.imgur.com/5e6pTJL.jpg"
-categories: viagens
-author: eduardo
----
-de vdd
