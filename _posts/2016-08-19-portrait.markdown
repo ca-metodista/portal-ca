@@ -7,6 +7,7 @@ categories: cultura
 author: victor
 ---
 Se aprofundar em algum autor começando por sua obra mais famosa e consagrada é um paradigma crítico conhecido. Ao mesmo tempo que você consegue observar um magnum opus através de uma ótica mais próxima dos leitores que estão lendo sua crítica, você sofre ao experimentar as futuras obras. No meu caso, comecei a ler James Joyce com Ulysses, depois Dubliners, e só agora li The Portrait of the Artist as a Young Man. Felizmente, a experiência anterior não machucou meu aproveitamento dessa.
+<!--break-->
 
 The Portrait of the Artist as a Young Man é uma espécie de autobiografia alegórica experimental. Assim como em Ulysses, a língua inglesa é uma ferramenta que Joyce usa para dar uma profundidade intertextual que conta uma história paralela à narrativa básica do romance. Isso é demonstrado claramente na primeira cena, onde a linguagem toma forma de um linguajar primitivo e fofo (moocows e tuckoos) para dar a ideia de infância. A própria estrutura de “era uma vez” desse texto remete aos contos de fadas que crianças ouvem e usam como artifício para contar histórias.
 
