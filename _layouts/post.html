@@ -8,7 +8,6 @@ layout: default
             <div>
                 <div class="post-heading">
                     <h4>{{ page.title }}</h4>
-			<img src="{{ page.header-image }}"/>
                     {% if page.subtitle %}
                     <h2 class="subheading">{{ page.subtitle }}</h2>
                     {% endif %}
@@ -22,6 +21,7 @@ layout: default
     <div class="container">
         <div class="row">
             <div>
+			<img src="{{ page.header-image }}"/>
 			{{ content | replace: '<!--break-->', '<a class="anchor" id="read-more"></a>' }}
                 <hr>
                 <ul class="pager">
