@@ -13,6 +13,7 @@ Na manifestação
 Na inauguração do Museu do Trabalho e do Trabalhador
 
 No diretório do partido
+<!--break-->
 
 
 Numa exposição
