@@ -3,7 +3,7 @@ layout: post
 title:  "Lugares para encontrar o amor da sua vida"
 date:   2016-08-17 18:00:00
 header-image: "https://cdn-images-1.medium.com/max/800/1*ZNv50soSihsrjL54GHT7Hg.jpeg"
-categories: relacionamentos
+categories: poemas
 author: girrana
 ---
 Na fila do pão
