@@ -7,6 +7,11 @@
   font-size: 14px;
 }
 .container .row{
-  width: 90%;
-  font-size: 12px;
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+  font-family: 'Open Sans', 'Times New Roman', serif;
+  font-size: 20px;
+  color: #404040;
 }
