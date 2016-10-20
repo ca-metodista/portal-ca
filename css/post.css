@@ -6,6 +6,10 @@
   line-height: 18px;
   font-size: 14px;
 }
+.container{
+  margin:0 20px;
+  width:750px;
+}
 .container .row{
   position: relative;
   min-height: 1px;
