@@ -2,12 +2,13 @@
 layout: default
 ---
 {% assign author = site.authors[page.author] %}
-<header class="intro-header" style="background-image: url('{{ page.header-image }}');background-size:cover;width:100%;display:block">
+<header class="intro-header">
     <div class="container">
         <div class="row">
             <div>
                 <div class="post-heading">
                     <h4>{{ page.title }}</h4>
+			<img src="{{ page.header-image }}"/>
                     {% if page.subtitle %}
                     <h2 class="subheading">{{ page.subtitle }}</h2>
                     {% endif %}
