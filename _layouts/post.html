@@ -23,19 +23,6 @@ layout: default
             <div>
 			<img src="{{ page.header-image }}" style="float:left;width:320px;margin:0 32px 32px 0"/>
 			{{ content | replace: '<!--break-->', '<a class="anchor" id="read-more"></a>' }}
-                <hr>
-                <ul class="pager">
-                    {% if page.previous.url %}
-                    <li class="previous">
-                        <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Postagem anterior</a>
-                    </li>
-                    {% endif %}
-                    {% if page.next.url %}
-                    <li class="next">
-                        <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Próxima postagem &rarr;</a>
-                    </li>
-                    {% endif %}
-                </ul>
             </div>
         </div>
     </div>
