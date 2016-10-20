@@ -18,10 +18,12 @@ layout: default
                     {% if excerpt_words != content_words %}
                     {% endif %}
                     {% if post.header-image %}
+                         <a href="{{ post.url | prepend: site.baseurl }}">
                         <figure class="figure">
                                 <img class="media" src="{{ post.header-image }}" alt="">
                                 <figcaption class="figcaption">{{ post.header-caption }}</figcaption>
                         </figure>
+                    </a>
                     {% endif %}
         </div>
         {% endfor %}
