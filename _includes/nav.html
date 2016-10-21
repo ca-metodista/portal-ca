@@ -2,5 +2,9 @@
     <div class="headerobjectswrapper">
         <header><a href="{{ site.baseurl }}">{{ site.title }}</a></header>
     </div>
-    <div class="subhead">Alguma descrição qualquer</div>
+    <div class="subhead">
+        {% for cat in site.categories %}
+            <li>{{ cat[0] }}</li>
+        {% endfor %}
+    </div>
 </div>
