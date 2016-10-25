@@ -1,0 +1,47 @@
+// Navegação
+.head {
+  margin: 1em;
+}
+.head ul {
+  list-style-type: none;
+}
+.head li {
+  display: block;
+}
+.subhead a {
+  background-color: lightblue;
+  color: blue;
+  display: block;
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 1.25em;
+  margin: 0 0 .125em 0;
+  padding: .5em 0;
+  text-align: center;
+  text-decoration: none;
+}
+.subhead a:hover {
+  background-color: lime;
+  color: white;
+}
+@media (min-width: 30em) {
+  .head li {
+    float: left;
+    width: 50%;
+  }
+  .subhead a {
+    margin-right: .125em;
+  }
+}
+
+@media (min-width: 40em) {
+  .head li {
+    display: inline-block;
+    width: 25%;
+  }
+}
+
+@media (min-width: 48em) {
+  .head li {
+    max-width: 8em;
+  }
+}
