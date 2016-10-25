@@ -1,6 +1,6 @@
 <div class="navigation">
     <a class="box" href="{{ site.baseurl }}"><span>{{ site.title }}</span></a>
-    {% for cat in site.categories %}
-        <a href="{{ cat[0].url }}" class="box"><span>{{ cat[0] }}</span></a>
+    {% for cat in site.data.categories %}
+        <a href="{{ cat[0] }}" class="box"><span>{{ cat[0].name }}</span></a>
     {% endfor %}
 </div>
