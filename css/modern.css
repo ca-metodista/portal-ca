@@ -1,5 +1,10 @@
 .head {
-  margin: 1em;
+  background-color: #E00;
+  width:100%;
+}
+.head .headerobjectswrapper{
+  font-size:18pt;
+  color:#FFF;
 }
 .head ul {
   list-style-type: none;
