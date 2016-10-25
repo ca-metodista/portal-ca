@@ -1,10 +1,6 @@
-<div class="head">
-    <div class="headerobjectswrapper">
-        <header><a href="{{ site.baseurl }}">{{ site.title }}</a></header>
-    </div>
-    <div class="subhead">
-        {% for cat in site.categories %}
-            <a>{{ cat[0] }}</a> - 
-        {% endfor %}
-    </div>
+<div class="box>
+    <a href="{{ site.baseurl }}">{{ site.title }}</a>
+    {% for cat in site.categories %}
+        <a>{{ cat[0] }}</a> - 
+    {% endfor %}
 </div>
