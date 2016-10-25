@@ -1,4 +1,3 @@
-// Navegação
 .head {
   margin: 1em;
 }
@@ -9,10 +8,7 @@
   display: block;
 }
 .subhead a {
-  background-color: lightblue;
-  color: blue;
   display: block;
-  font-family: 'Fjalla One', sans-serif;
   font-size: 1.25em;
   margin: 0 0 .125em 0;
   padding: .5em 0;
