@@ -40,6 +40,10 @@ p{
 .highlight .headline.hl3{
 	font-size:32pt;
 }
+.highlight p{
+	float:right;
+	font-size:11pt;
+}
 .collumns{
 	margin:0 auto;
 }
