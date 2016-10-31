@@ -35,7 +35,10 @@ p{
     margin: 30px 2% 0 2%;
 }
 .highlight{
-	width:90% !important;
+	width:80% !important;
+}
+.highlight .headline.hl3{
+	font-size:32pt;
 }
 .collumns{
 	margin:0 auto;
