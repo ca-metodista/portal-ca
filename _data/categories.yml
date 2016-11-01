@@ -1,8 +1,12 @@
 poemas:
   name: Poemas
+  link: poemas
 cronicas:
   name: Crônicas
+  link: cronicas
 viagens:
   name: Viagens
+  link: viagens
 cidades:
   name: Cidades
+  link: cidades
