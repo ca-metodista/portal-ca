@@ -40,6 +40,8 @@ p{
 .highlight .headline.hl3{
 	float:left;
 	top:0;
+	margin:0;
+	margin-top:50%;
 	font-size:32pt;
 	line-height:32pt;
 	text-align:left;
