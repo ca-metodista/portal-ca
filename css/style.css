@@ -38,12 +38,15 @@ p{
 	width:50% !important;
 }
 .highlight .headline.hl3{
+	float:left;
+	top:0;
 	font-size:32pt;
 	line-height:32pt;
 }
 .highlight p{
 	float:right;
 	font-size:11pt;
+	display:none;
 }
 .collumns{
 	margin:0 auto;
