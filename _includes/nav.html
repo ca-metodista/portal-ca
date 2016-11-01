@@ -5,15 +5,14 @@
       {% assign tags_list = site.data.categories %}  
         {% if tags_list.first[0] == null %}
           {% for tag in tags_list %} 
-            <li><a href="#{{ tag }}">{{ tag | capitalize }} <span>{{ site.tags[tag].size }}</span></a></li>
+            <a href="#{{ tag }}">{{ tag | capitalize }}</a>
           {% endfor %}
         {% else %}
           {% for tag in tags_list %} 
-            <li><a href="#{{ tag[0] }}">{{ tag[0] | capitalize }} <span>{{ tag[1].size }}</span></a></li>
+            <a href="#{{ tag[0] }}">{{ tag[0] | capitalize }}</a>
           {% endfor %}
         {% endif %}
       {% assign tags_list = nil %}
-      </div>
       {% for tag in site.categories %} 
         <h2 id="{{ tag[0] }}">{{ tag[0] | capitalize }}</h2>
         <ul class="post-list">
@@ -29,3 +28,4 @@
           {% assign group = nil %}
         </ul>
       {% endfor %}
+</div>
