@@ -5,11 +5,11 @@
       {% assign tags_list = site.data.categories %}  
       {% if tags_list.first[0] == null %}
             {% for tag in tags_list %} 
-                  <a href="#{{ tag }}">{{ tag | capitalize }}</a>
+                  <a href="{{ tag }}">{{ tag | capitalize }}</a>
             {% endfor %}
       {% else %}
             {% for tag in tags_list %} 
-                  <a href="#{{ tag[0] }}">{{ tag[0] | capitalize }}</a>
+                  <a href="{{ tag[0] }}">{{ tag[0] | capitalize }}</a>
             {% endfor %}
       {% endif %}
 </div>
