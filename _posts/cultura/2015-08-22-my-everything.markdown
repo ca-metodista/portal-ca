@@ -3,7 +3,7 @@ layout: post
 title:  "Opiniões sobre My Everything, da Ariana Grande"
 date:   2015-08-22 21:00:00
 categories: music
-header-img: "http://i.imgur.com/ZT8AcUT.png"
+header-image: "http://i.imgur.com/ZT8AcUT.png"
 author: victor
 ---
 Depois de um período extenso da minha vida idolatrando Taylor Swift, exclusivamente, decidi dar uma chance a outra artista contemporânea: **Ariana Grande**. Aproveitando minha nova assinatura da Google Play Música, dediquei alguns dias a esse novo interesse ouvindo o álbum **My Everything** repetidamente. É o segundo álbum de Ariana, mas ainda senti que foi uma boa porta de entrada para começar a gostar de sua música.
