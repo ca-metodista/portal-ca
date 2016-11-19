@@ -13,7 +13,7 @@ ul{padding:0; margin:0; list-style:none}
 a{text-decoration:none; color:#798992}
 a:hover{color:#646464; text-decoration:none}
 a:focus{outline:none; text-decoration:none}
-h2{font-family:'Oswald',sans-serif; line-height:23px}
+h2{line-height:23px}
 img{border:none}
 img:hover{opacity:0.75}
 .img-center{display:block; margin-left:auto; margin-right:auto; text-align:center}
@@ -32,7 +32,7 @@ img:hover{opacity:0.75}
 .header_top_left{ float:left; display:inline; width:70%}
 .top_nav{ text-align:left}
 .top_nav li{ display:inline-block}
-.top_nav li a{ color:#798992; display:inline-block; font-family:"Oswald",sans-serif; font-size:12px; padding:8px 12px; text-transform:uppercase; -webkit-transition:all 0.5; -o-transition:all 0.5; transition:all 0.5}
+.top_nav li a{ color:#798992; display:inline-block; font-size:12px; padding:8px 12px; text-transform:uppercase; -webkit-transition:all 0.5; -o-transition:all 0.5; transition:all 0.5}
 .top_nav li a:hover{ color:#FFA500; text-decoration:none; outline:none}
 .header_top_right{ float:right; display:inline; width:30%; text-align:right}
 .search_form{ padding:3px 0 0}
@@ -40,7 +40,7 @@ img:hover{opacity:0.75}
 .search_form input[type="submit"]{ background:url("images/icon-search.png") no-repeat scroll center 5px rgba(0,0,0,0); height:27px; line-height:27px; width:30px; border:none}
 .header_bottom{display:inline; float:left; width:100%; padding:30px 0px}
 .header_bottom_left{float:left; display:inline; width:217px}
-.logo{display:block; font-family:"Oswald",sans-serif; font-size:35px; font-weight:bold; line-height:32px; width:217px}
+.logo{display:block; font-size:35px; font-weight:bold; line-height:32px; width:217px}
 .logo > img:hover{opacity:1}
 .logo > strong{color:#FFA500}
 .logo > span{display:block; font-size:16px; font-weight:normal}
@@ -54,7 +54,7 @@ img:hover{opacity:0.75}
 .container-fluid{padding-left:0; padding-right:0}
 .navbar-collapse{padding-left:0; padding-right:0}
 .custom_nav{border:1px solid #fff; width:100%}
-.navbar-default .navbar-nav > li > a{color:#fff; display:block; font-family:"Oswald",sans-serif; font-size:15px; text-decoration:none; text-transform:uppercase; border-top:2px solid transparent; border-bottom:2px solid transparent; margin-top:-2px; margin-bottom:-2px; padding-bottom:17px; -webkit-transition:all 0.5s; -o-transition:all 0.5s; transition:all 0.5s}
+.navbar-default .navbar-nav > li > a{color:#fff; display:block; font-size:15px; text-decoration:none; text-transform:uppercase; border-top:2px solid transparent; border-bottom:2px solid transparent; margin-top:-2px; margin-bottom:-2px; padding-bottom:17px; -webkit-transition:all 0.5s; -o-transition:all 0.5s; transition:all 0.5s}
 .dropdown-menu > li > a{color:#fff; padding:5px 15px; border-top:1px solid transparent; border-bottom:1px solid transparent; -webkit-transition:all 0.5s; -moz-transition:all 0.5s; -ms-transition:all 0.5s; -o-transition:all 0.5s; transition:all 0.5s}
 .navbar-default .navbar-toggle .icon-bar{background-color:#fff}
 #mainContent{background-color:#f6f6f6; display:inline; float:left; padding-top:15px; width:100%}
@@ -121,7 +121,6 @@ span.meta_more:before{content:" "; font-family:FontAwesome; font-style:normal
 .related-img{display:inline-block; float:left}
 .media-left{width:112px; height:112px}
 .media-left > img{width:100%; height:100%}
-.media-heading a{font-family:"Oswald",sans-serif}
 .games_fashion_area{float:left; display:inline; width:100%}
 .games_category{float:left; display:inline; width:49%}
 .fashion_category{float:right; display:inline; width:49%}
@@ -194,13 +193,6 @@ span.meta_more:before{content:" "; font-family:FontAwesome; font-style:normal
 .twitter i{background-color:#26b5f2; display:block; float:left; font-size:16px; height:32px; line-height:33px; margin-right:10px; padding-top:0; text-align:center; width:32px}
 .googleplus{background-color:#ec5f4a}
 .googleplus i{background-color:#e94d36; display:block; float:left; font-size:16px; height:32px; line-height:33px; margin-right:10px; padding-top:0; text-align:center; width:32px}
-.linkedin{background-color:#007BB5}
-.linkedin i{background-color:#346DA6}
-.stumbleupon{background-color:#EF4E23}
-.stumbleupon i{background-color:#CA4638}
-.pinterest{background-color:#CA2127}
-.pinterest i{background-color:#A53829}
-.linkedin i, .stumbleupon i, .pinterest i{display:block; float:left; font-size:16px; height:32px; line-height:33px; margin-right:10px; padding-top:0; text-align:center; width:32px}
 .similar_post{background-color:#fff; display:inline-block; float:left; margin-bottom:20px; padding:0 15px; width:100%}
 .similar_post h2{border-bottom:1px dotted #798992; font-size:25px; padding-bottom:5px}
 .similar_nav li{border-bottom:0px dotted #e5e5e5; width:33.3%; float:left}
