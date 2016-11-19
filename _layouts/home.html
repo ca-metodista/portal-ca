@@ -7,13 +7,7 @@ layout: default
             <div class="col-lg-6 col-md-6 col-sm6">
                 <div class="latest_slider">
                     <div class="slick_slider">
-                        {% for post in paginator.posts limit:1 %}
-                        {% assign author = site.data.authors[post.author] %}
-                            <div class="single_iteam"><img src="{{ post.header-image }}" alt="">
-                                <h2><a class="slider_tittle" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-                            </div>
-                        {% endfor %}
-                        {% for post in paginator.posts offset:1 limit:5 %}
+                        {% for post in paginator.posts limit:3 %}
                         {% assign author = site.data.authors[post.author] %}
                             <div class="single_iteam"><img src="{{ post.header-image }}" alt="">
                                 <h2><a class="slider_tittle" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
