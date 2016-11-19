@@ -1,24 +1,22 @@
-<div class="container">
-      <header id="header">
-            <div class="row">
-                  <div class="col-lg-12 col-md-12">
-                        <div class="header_top">
-                              <div class="header_top_left">
-                                    <ul class="top_nav">
-                                          {% assign tags_list = site.data.categories %}  
-                                          {% if tags_list.first[0] == null %}
-                                                {% for tag in tags_list %} 
-                                                      <li><a href="/{{ tag }}">{{ tag | capitalize }}</a></li>
-                                                {% endfor %}
-                                          {% else %}
-                                                {% for tag in tags_list %} 
-                                                      <li><a href="/{{ tag[0] }}">{{ tag[0] | capitalize }}</a></li>
-                                                {% endfor %}
-                                          {% endif %}
-                                    </ul>
-                              </div>
+<header id="header">
+      <div class="row">
+            <div class="col-lg-12 col-md-12">
+                  <div class="header_top">
+                        <div class="header_top_left">
+                              <ul class="top_nav">
+                                    {% assign tags_list = site.data.categories %}  
+                                    {% if tags_list.first[0] == null %}
+                                          {% for tag in tags_list %} 
+                                                <li><a href="/{{ tag }}">{{ tag | capitalize }}</a></li>
+                                          {% endfor %}
+                                    {% else %}
+                                          {% for tag in tags_list %} 
+                                                <li><a href="/{{ tag[0] }}">{{ tag[0] | capitalize }}</a></li>
+                                          {% endfor %}
+                                    {% endif %}
+                              </ul>
                         </div>
                   </div>
             </div>
-      </header>
-</div>
+      </div>
+</header>
