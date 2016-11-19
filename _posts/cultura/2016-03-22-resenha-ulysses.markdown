@@ -3,7 +3,7 @@ layout: post
 title:  "Resenha de Ulysses"
 date:   2016-03-22 18:48:00
 categories: literature
-header-img: "http://i.imgur.com/zl8mVeV.jpg"
+header-image: "http://i.imgur.com/zl8mVeV.jpg"
 author: victor
 ---
 Incidentalmente, encontrei um tal de James Joyce no Gutenberg.org. Literatura inglesa me interessava, muito antes de ter que procurar saber o que é Modernismo. Lembro que o primeiro parágrafo me frustrou. "Eu não entendo esse livro". Eu não entendia a ambientação. Não entendia a torre. Não sabia quem estava dialogando. Eu não cheguei a tentar investir mais esforço ou tempo e acabei desistindo.
