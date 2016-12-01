@@ -10,3 +10,6 @@ viagens:
 cidades:
   name: Cidades
   link: cidades
+cultura:
+  name: Cultura
+  link: cultura
