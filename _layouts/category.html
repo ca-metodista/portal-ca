@@ -1,29 +1,36 @@
 ---
 layout: default
 ---
-<div class="content">
-    <div class="collumns">
-        {% for post in site.categories.[page.category] %}
-            {% assign author = site.data.authors[post.author] %}
-        <div class="highlight">
-                <div class="head"><span class="headline hl3">{{ post.title }}</span><p><span class="headline hl4">por {% if post.author %}{{ author.name }}{% else %}{{ site.title }}{% endif %}</span></p></div>
-                {{ post.excerpt }} 
-                {% capture content_words %} 
-                  {{ post.content | number_of_words }} 
-                {% endcapture %} 
-                {% capture excerpt_words %} 
-                  {{ post.excerpt | number_of_words }} 
-                {% endcapture %} 
-                {% if excerpt_words != content_words %}
-                {% endif %}
-                {% if post.header-image %}
-                     <a href="{{ post.url | prepend: site.baseurl }}">
-                    <figure class="figure">
-                            <img class="media" src="{{ post.header-image }}" alt="">
-                            <figcaption class="figcaption">{{ post.header-caption }}</figcaption>
-                    </figure>
-                </a>
-                {% endif %}
+<section id="mainContent">
+    <div class="content_top">
+        <div class="col-lg-6 col-md-6 col-sm6">
+            <div class="content_top_right">
+                <ul class="featured_nav wow fadeInDown">
+                    {% for post in site.categories.[page.category] %}
+                        {% assign author = site.data.authors[post.author] %}
+                        <div class="highlight">
+                            <div class="head"><span class="headline hl3">{{ post.title }}</span><p><span class="headline hl4">por {% if post.author %}{{ author.name }}{% else %}{{ site.title }}{% endif %}</span></p></div>
+                            {{ post.excerpt }} 
+                            {% capture content_words %} 
+                              {{ post.content | number_of_words }} 
+                            {% endcapture %} 
+                            {% capture excerpt_words %} 
+                              {{ post.excerpt | number_of_words }} 
+                            {% endcapture %} 
+                            {% if excerpt_words != content_words %}
+                            {% endif %}
+                            {% if post.header-image %}
+                                 <a href="{{ post.url | prepend: site.baseurl }}">
+                                <figure class="figure">
+                                        <img class="media" src="{{ post.header-image }}" alt="">
+                                        <figcaption class="figcaption">{{ post.header-caption }}</figcaption>
+                                </figure>
+                            </a>
+                            {% endif %}
+                        </div>
+                    {% endfor %}
+                </ul>
+            </div>
         </div>
-        {% endfor %}
-        </div>
+    </div>
+</section>
