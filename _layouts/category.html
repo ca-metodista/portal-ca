@@ -7,7 +7,7 @@ layout: default
             <div class="content_top_right">
                 <ul class="featured_nav wow fadeInDown">
                     {% for post in site.categories.[page.category] %}
-                        cu
+                        {{ post.title }}
                     {% endfor %}
                 </ul>
             </div>
