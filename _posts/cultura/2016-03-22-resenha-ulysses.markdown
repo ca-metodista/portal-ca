@@ -2,7 +2,7 @@
 layout: post
 title:  "Resenha de Ulysses"
 date:   2016-03-22 18:48:00
-categories: literature
+categories: cultura
 header-image: "http://i.imgur.com/zl8mVeV.jpg"
 author: victor
 ---
