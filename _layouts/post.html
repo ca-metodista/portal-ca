@@ -5,11 +5,12 @@ layout: default
 <header class="intro-header">
     <div class="container">
         <div class="row">
-            <div><br/>
+            <div>
                 <div class="post-heading">
+		<br/><br/>
                     <h2>{{ page.title }}</h2>
                     {% if page.subtitle %}
-                    <h4 class="subheading">{{ page.subtitle }}</h4>
+                    	<h4 class="subheading">{{ page.subtitle }}</h4>
                     {% endif %}
                     <span class="meta">Publicada por {% if page.author %}{{ author.name }}{% else %}{{ site.title }}{% endif %} - {{ page.date | date: "%b %-d, %Y" }}</span>
                 </div>
