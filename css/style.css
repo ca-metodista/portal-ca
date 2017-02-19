@@ -28,7 +28,7 @@ img:hover{opacity:0.75}
 .blue_btn:hover{background-color:#39c8f7; color:#fff}
 .transition{-webkit-transition:all 0.5s; -moz-transition:all 0.5s; -ms-transition:all 0.5s; -o-transition:all 0.5s; transition:all 0.5s}
 #header{float:left; display:inline; width:100%}
-.header_top{ display:inline; float:left; width:100%;  border-bottom:1px solid #e6e6e6}
+.header_top{ display:inline; float:left; width:100%;  border-bottom:1px solid #e6e6e6;margin-bottom:12px}
 .header_top_left{ float:left; display:inline; width:70%}
 .top_nav{ text-align:left}
 .top_nav li{ display:inline-block}
