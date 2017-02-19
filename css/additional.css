@@ -1,6 +1,7 @@
 .intro-header{
   background-attachment: fixed;
+  background-size:100%;
   background-repeat:none;
   background-position:center center;
-  height:20%;
+  height:50%;
 }
