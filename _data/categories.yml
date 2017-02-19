@@ -1,20 +1,20 @@
 poemas:
   name: Poemas
   link: poemas
-  description: Tudo que rima como poema ou tem clima de poema fica aqui
+  description: "Tudo que rima como poema ou tem clima de poema fica aqui"
 cronicas:
   name: Crônicas
   link: cronicas
-  description: Ilustrações do cotidiano em textos gostosinhos
+  description: "Ilustrações do cotidiano em textos gostosinhos"
 viagens:
   name: Viagens
   link: viagens
-  description: Nem todos nasceram Kardashian, mas isso não nos impede de viajar e contar histórias
+  description: "Nem todos nasceram Kardashian, mas isso não nos impede de viajar e contar histórias"
 cidades:
   name: Cidades
   link: cidades
-  description: Poluição, política local e tudo que faz o Jornalismo ser Jornalismo
+  description: "Poluição, política local e tudo que faz o Jornalismo ser Jornalismo"
 cultura:
   name: Cultura
   link: cultura
-  description: O solo de bateria do Jornalismo\: um orgasmo para escrever, um saco para ler
+  description: "O solo de bateria do Jornalismo: um orgasmo para escrever, um saco para ler"
