@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<main>
+<main class="grid-container">
     <section class="thumbnail-grid flex">
         {% for post in paginator.posts limit:8 %}
         {% assign author = site.data.authors[post.author] %}
