@@ -1,33 +1,13 @@
 ---
 layout: default
 ---
-<section id="mainContent">
-    <div class="content_top">
-        <div class="row">
-            <div class="col-lg-6 col-md-6 col-sm6">
-                <div class="latest_slider">
-                    <div class="slick_slider">
-                        {% for post in paginator.posts limit:3 %}
-                        {% assign author = site.data.authors[post.author] %}
-                            <div class="single_iteam"><img src="{{ post.header-image }}" alt="">
-                                <h2><a class="slider_tittle" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-                            </div>
-                        {% endfor %}
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-6 col-md-6 col-sm6">
-                <div class="content_top_right">
-                    <ul class="featured_nav wow fadeInDown">
-                        {% for post in paginator.posts offset:3 %}
-                        {% assign author = site.data.authors[post.author] %}
-                            <li><img src="{{ post.header-image }}" alt="">
-                                <div class="title_caption"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></div>
-                            </li>
-                        {% endfor %}
-                    </ul>
-                </div>
-            </div>
+<main class="content">
+    <div class="feed-grid">
+        {% for post in paginator.posts limit:8 %}
+        {% assign author = site.data.authors[post.author] %}
+            <div class="card"> <img src="{{ post.header-image }}" alt="img"/>
+                <div class="info-center">{{ post.title }}</div>
+        {% endfor %}
         </div>
     </div>
-</section>
+</main>
