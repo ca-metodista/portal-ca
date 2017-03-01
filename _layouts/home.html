@@ -4,14 +4,13 @@ layout: default
 <div class="wrapper">
 <main class="content">
     <div class="feed-grid">
-        <div class="card-half wide">
         {% for post in paginator.posts limit:8 %}
         {% assign author = site.data.authors[post.author] %}
-            <div class="card"> <img src="{{ post.header-image }}" alt="img"/>
+            <div class="card">
+                <img src="{{ post.header-image }}" alt="img"/>
                 <div class="info-center">{{ post.title }}</div>
-        {% endfor %}
             </div>
-        </div>
+        {% endfor %}
     </div>
 </main>
 </div>
