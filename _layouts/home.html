@@ -1,16 +1,15 @@
 ---
 layout: default
 ---
-<div class="wrapper">
-<main class="content">
-    <div class="feed-grid">
+<main>
+    <section class="thumbnail-grid flex">
         {% for post in paginator.posts limit:8 %}
         {% assign author = site.data.authors[post.author] %}
-            <div class="card">
-                <img src="{{ post.header-image }}" alt="img"/>
-                <div class="info-center"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></div>
-            </div>
+            <a href="{{ post.url | prepend: site.baseurl }}" class="flex-item">
+				<figure style="background-image:{{ post.header-image }}">
+					<figcaption>{{ post.title }}</figcaption>
+				</figure>
+			</a>
         {% endfor %}
-    </div>
+    </section>
 </main>
-</div>
