@@ -27,7 +27,7 @@
 }
 .flexbox-thumbnail-grid fighidden {
 	position: absolute;
-	visibility:hidden !important;
+	opacity:0 !important;
 	width: 100%;
 	text-align: center;
 	color: #f4f4f4;
@@ -37,7 +37,7 @@
 }
 .flexbox-thumbnail-grid figure:hover fighidden {
 	bottom: 40px;
-	visibility:visible;
+	opacity:100%;
 }
 .flexbox {
 	width:100%;
