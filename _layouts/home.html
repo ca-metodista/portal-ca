@@ -7,7 +7,7 @@ layout: default
 <a href="{{ post.url | prepend: site.baseurl }}" class="flexbox-item">
 	<figure style="background-image:url({{ post.header-image }});background-size:cover">
 		<figcaption>{{ post.title }}</figcaption>
-		<fighidden>por {{post.author.name}}</fighidden>
+		<fighidden>por {{site.data.authors[post.author].name}}</fighidden>
 	</figure>
 </a>
 {% endfor %}
