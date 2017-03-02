@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-<main class="content">
-    <section class="thumbnail-grid flex">
+<main>
+    <section class="flexbox-thumbnail-grid flexbox">
         {% for post in paginator.posts limit:8 %}
         {% assign author = site.data.authors[post.author] %}
     		<a href="{{ post.url | prepend: site.baseurl }}" class="flex-item">
