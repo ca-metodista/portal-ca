@@ -3,7 +3,7 @@ layout: post
 title:  "Resenha de O Diário de Larissa Manoela"
 date:   2017-01-15 23:00:00
 categories: cultura
-header-img: "http://i.imgur.com/NtIKuBF.jpg"
+header-image: "http://i.imgur.com/NtIKuBF.jpg"
 author: victor
 ---
 Por onde começar ao fazer uma resenha de um livro desses? Por se tratar de uma obra tão pós-moderna e subversiva, temos alguns aspectos únicos a ele que não são necessariamente parâmetros comparativos de outros livros. É um trabalho subestimado, comercialmente tendencial e, de certa forma, muito orientado a um nicho.
