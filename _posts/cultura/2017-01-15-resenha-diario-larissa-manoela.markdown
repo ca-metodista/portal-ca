@@ -2,7 +2,7 @@
 layout: post
 title:  "Resenha de O Diário de Larissa Manoela"
 date:   2017-01-15 23:00:00
-categories: literature
+categories: cultura
 header-img: "http://i.imgur.com/NtIKuBF.jpg"
 author: victor
 ---
