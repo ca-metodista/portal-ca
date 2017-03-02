@@ -25,17 +25,19 @@
 .flexbox-thumbnail-grid figure:hover figcaption{
 	bottom: 60px
 }
-.flexbox-thumbnail-grid a fighidden {
+.flexbox-thumbnail-grid fighidden {
 	position: absolute;
+	visibility:none;
 	width: 100%;
 	text-align: center;
+	color: #f4f4f4;
+	text-shadow: 0 0 3px #000;
 	bottom: 10px;
-	font-size:0 !important;
 	transition: all .2s ease-in-out
 }
-.flexbox-thumbnail-grid figure:hover a fighidden {
+.flexbox-thumbnail-grid figure:hover fighidden {
 	bottom: 40px;
-	font-size:8pt
+	visibility:visible;
 }
 .flexbox {
 	width:100%;
