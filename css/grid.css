@@ -37,7 +37,7 @@
 }
 .flexbox-thumbnail-grid figure:hover fighidden {
 	bottom: 40px;
-	opacity:100 !important;
+	opacity:1 !important;
 }
 .flexbox {
 	width:100%;
