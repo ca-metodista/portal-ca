@@ -2,7 +2,7 @@
 layout: default
 ---
 <section class="flexbox-thumbnail-grid flexbox">
-{% for post in paginator.posts limit:8 %}
+{% for post in paginator.posts limit:32 %}
 {% assign author = site.data.authors[post.author] %}
 <a href="{{ post.url | prepend: site.baseurl }}" class="flexbox-item">
 	<figure style="background-image:url({{ post.header-image }});background-size:cover">
