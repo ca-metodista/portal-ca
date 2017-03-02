@@ -2,7 +2,7 @@
 layout: post
 title:  "Opiniões sobre My Everything, da Ariana Grande"
 date:   2015-08-22 21:00:00
-categories: music
+categories: cultura
 header-image: "http://i.imgur.com/ZT8AcUT.png"
 author: victor
 ---
