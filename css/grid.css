@@ -27,7 +27,7 @@
 }
 .flexbox-thumbnail-grid fighidden {
 	position: absolute;
-	visibility:none;
+	visibility:hidden;
 	width: 100%;
 	text-align: center;
 	color: #f4f4f4;
