@@ -1,25 +1,17 @@
 ---
 layout: default
 ---
-<section id="mainContent">
-    <div class="content_top">
-        <h1>{{ page.category }}</h1>
-        <h2>{{ site.data.category[page.category].name }}</h2>
-        <h5>{{ site.data.category[page.category].description }}</h5>
-        <div class="row">
-            <div class="col-lg-6 col-md-6 col-sm6">
-                <div class="content_top_right">
-                    <ul class="featured_nav wow fadeInDown">
-                        {% for post in site.categories.[page.category] %}
-                        {% assign author = site.data.authors[post.author] %}
-                            <li>
-                                <img src="{{ post.header-image }}" alt="">
-                                <div class="title_caption"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></div>
-                            </li>
-                        {% endfor %}
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
+<h1>{{ page.category }}</h1>
+<h2>{{ site.data.category[page.category].name }}</h2>
+<h5>{{ site.data.category[page.category].description }}</h5>
+<section class="flexbox-thumbnail-grid flexbox">
+{% for post in site.categories.[page.category] %}
+{% assign author = site.data.authors[post.author] %}
+<a href="{{ post.url | prepend: site.baseurl }}" class="flexbox-item">
+	<figure style="background-image:url({{ post.header-image }});background-size:cover">
+		<figcaption>{{ post.title }}</figcaption>
+		<fighidden>por {{post.author}}</fighidden>
+	</figure>
+</a>
+{% endfor %}
 </section>
