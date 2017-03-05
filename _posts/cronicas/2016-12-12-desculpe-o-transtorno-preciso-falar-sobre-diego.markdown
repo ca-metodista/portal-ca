@@ -3,7 +3,7 @@ layout: post
 title:  "Desculpe o transtorno, preciso falar de Diego"
 date:   2016-12-12 22:19:43
 categories: cronica
-header-img: "https://cdn-images-1.medium.com/max/800/1*Pgie6Vk1PvwWfMg6VrWlFg.jpeg"
+header-image: "https://cdn-images-1.medium.com/max/800/1*Pgie6Vk1PvwWfMg6VrWlFg.jpeg"
 author: girrana
 ---
 Conheci ele no dia do golpe. Essa frase pode parecer romântica se você imaginar alguém gritando “não vai ter golpe” no meio de sinalizadores vermelhos. Mas o dia em questão era o da votação do impeachment no Congresso, que era tudo, menos romântico. Ele gritava “não vai ter golpe”. Meus amigos gritavam. Eu gritava. Nunca vou me esquecer o gritinho que era: “Quem não Pula é Golpista”.
