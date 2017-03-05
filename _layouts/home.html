@@ -12,24 +12,26 @@ layout: default
 </a>
 {% endfor %}
 </section>
-<div class="pagination-container">
-	<ul class="pagination">
-		<li class="pagination-item--wide first">
-			{% if paginator.previous_page %}
-				<a class="pagination-link--wide first" href="{{ paginator.previous_page_path }}">Anterior</a>
-			{% else %}
-				<a class="pagination-link--wide disabled first">Anterior</a>
-			{% endif %}
-		</li>
-		<li class="pagination-item">
-			<span class="pagination-number">{{ paginator.page }}/{{ paginator.total_pages }}</span>
-		</li>
-		<li class="pagination-item--wide last">
-			{% if paginator.next_page %}
-				<a class="pagination-link--wide last" href="{{ paginator.next_page_path }}">Próxima</a>
-			{% else %}
-				<a class="pagination-link--wide disabled last">Próxima</a>
-			{% endif %}
-		</li>
-	</ul>
-</div>
+{% if paginator.total_pages > 1 %}
+	<div class="pagination-container">
+		<ul class="pagination">
+			<li class="pagination-item--wide first">
+				{% if paginator.previous_page %}
+					<a class="pagination-link--wide first" href="{{ paginator.previous_page_path }}">Anterior</a>
+				{% else %}
+					<a class="pagination-link--wide disabled first">Anterior</a>
+				{% endif %}
+			</li>
+			<li class="pagination-item">
+				<span class="pagination-number">{{ paginator.page }}/{{ paginator.total_pages }}</span>
+			</li>
+			<li class="pagination-item--wide last">
+				{% if paginator.next_page %}
+					<a class="pagination-link--wide last" href="{{ paginator.next_page_path }}">Próxima</a>
+				{% else %}
+					<a class="pagination-link--wide disabled last">Próxima</a>
+				{% endif %}
+			</li>
+		</ul>
+	</div>
+{% endif %}
