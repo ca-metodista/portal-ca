@@ -63,6 +63,7 @@ iframe{width:100%}
   text-transform: none;
   line-height: 1;
 }
+.disabled{opacity:0}
 
 .pagination-link--wide.first:before {
 	margin-right: 0.5em;
