@@ -2,7 +2,7 @@
 layout: post
 title:  "Desculpe o transtorno, preciso falar de Diego"
 date:   2016-12-12 22:19:43
-categories: cronica
+categories: cronicas
 header-image: "https://cdn-images-1.medium.com/max/800/1*Pgie6Vk1PvwWfMg6VrWlFg.jpeg"
 author: girrana
 ---
