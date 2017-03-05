@@ -15,9 +15,6 @@ iframe{width:100%}
 }
 
 .pagination-item {
-    background-color: #fa4248;
-    border-radius: 50%;
-    color: #fff;
     float: left;
     font-size: 2em;
     height: 100px;
@@ -31,7 +28,6 @@ iframe{width:100%}
 	padding: 1.1em 1.6em;
 	float: left;
 	text-decoration: none;
-	color: #8b969c;
 }
 
 .pagination-item--wide {
@@ -61,7 +57,6 @@ iframe{width:100%}
 
 .pagination-link--wide.first:before,
 .pagination-link--wide.last:after {
-  font-family: 'entypo';
   speak: none;
   font-style: normal;
   font-weight: normal;
