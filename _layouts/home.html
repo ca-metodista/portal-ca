@@ -18,7 +18,7 @@ layout: default
 			{% if paginator.previous_page %}
 				<a class="pagination-link--wide first" href="{{ paginator.previous_page_path }}">Anterior</a>
 			{% else %}
-				<a class="pagination-link--wide first">Anterior</a>
+				<a class="pagination-link--wide disabled first">Anterior</a>
 			{% endif %}
 		</li>
 		<li class="pagination-item">
@@ -28,7 +28,7 @@ layout: default
 			{% if paginator.next_page %}
 				<a class="pagination-link--wide last" href="{{ paginator.next_page_path }}">Próxima</a>
 			{% else %}
-				<a class="pagination-link--wide last">Próxima</a>
+				<a class="pagination-link--wide disabled last">Próxima</a>
 			{% endif %}
 		</li>
 	</ul>
