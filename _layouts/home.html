@@ -11,18 +11,23 @@ layout: default
 	</figure>
 </a>
 {% endfor %}
-
 </section>
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">Anterior</a>
-  {% else %}
-    <span class="previous">Anterior</span>
-  {% endif %}
-  <span class="page_number ">Página {{ paginator.page }} de {{ paginator.total_pages }}</span>
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Próxima</a>
-  {% else %}
-    <span class="next ">Próxima</span>
-  {% endif %}
+<div class="pagination-container">
+	<ul class="pagination">
+		<li class="pagination-item--wide first">
+			{% if paginator.previous_page %}
+				<a class="pagination-link--wide first" href="{{ paginator.previous_page_path }}">Anterior</a>
+			{% else %}
+				<a class="pagination-link--wide first">Anterior</a>
+		</li>
+		<li class="pagination-item">
+			<span class="pagination-number">{{ paginator.page }}/{{ paginator.total_pages }}</span>
+		</li>
+		<li class="pagination-item--wide last">
+			{% if paginator.next_page %}
+				<a class="pagination-link--wide last" href="{{ paginator.next_page_path }}">Próxima</a>
+			{% else %}
+				<a class="pagination-link--wide last">Próxima</a>
+		</li>
+	</ul>
 </div>
