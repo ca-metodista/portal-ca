@@ -2,7 +2,7 @@
 layout: post
 title:  "O fenômeno da pós-modernidade pós-coito quando Gilberto Gil dá onda"
 date:   2016-01-12 22:19:43
-categories: cronica
+categories: cronicas
 header-image: "https://cdn-images-1.medium.com/max/800/1*fdcm9yDdxVNmxtp8URW7nw.jpeg"
 author: girrana
 ---
