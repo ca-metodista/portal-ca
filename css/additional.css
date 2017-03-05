@@ -4,7 +4,6 @@ iframe{width:100%}
 .pagination-container {
 	margin-top: 1em;
 	padding-top: 2em;
-	border-top: 1px solid #d7dadb;
 	text-align: center;
 	display: inline-flex;
 	width: 100%;
@@ -66,12 +65,10 @@ iframe{width:100%}
 }
 
 .pagination-link--wide.first:before {
-	content: "\E765";
 	margin-right: 0.5em;
 }
 
 .pagination-link--wide.last:after {
-	content: "\E766";
 	margin-left: 0.5em;
 }
 
