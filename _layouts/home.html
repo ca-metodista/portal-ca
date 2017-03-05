@@ -19,6 +19,7 @@ layout: default
 				<a class="pagination-link--wide first" href="{{ paginator.previous_page_path }}">Anterior</a>
 			{% else %}
 				<a class="pagination-link--wide first">Anterior</a>
+			{% endif %}
 		</li>
 		<li class="pagination-item">
 			<span class="pagination-number">{{ paginator.page }}/{{ paginator.total_pages }}</span>
@@ -28,6 +29,7 @@ layout: default
 				<a class="pagination-link--wide last" href="{{ paginator.next_page_path }}">Próxima</a>
 			{% else %}
 				<a class="pagination-link--wide last">Próxima</a>
+			{% endif %}
 		</li>
 	</ul>
 </div>
