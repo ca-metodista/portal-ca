@@ -1,9 +1,7 @@
 ---
 layout: default
 ---
-<h1>{{ page.category.name }}</h1>
-<h2>{{ site.data.category[page.category].name }}</h2>
-<h5>{{ site.data.category[page.category].description }}</h5>
+<h1>{{ site.data.category[page.category] }}</h1>
 <section class="flexbox-thumbnail-grid flexbox">
 {% for post in site.categories.[page.category] %}
 {% assign author = site.data.authors[post.author] %}
