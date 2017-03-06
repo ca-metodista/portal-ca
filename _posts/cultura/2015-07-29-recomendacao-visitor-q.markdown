@@ -2,7 +2,7 @@
 layout: post
 title:  "Recomendação de filme: Visitor Q"
 date:   2015-07-29 22:19:43
-categories: film
+categories: cultura
 header-image: "http://i.imgur.com/7chNqKx.jpg"
 author: victor
 ---
