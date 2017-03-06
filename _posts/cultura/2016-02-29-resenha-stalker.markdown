@@ -2,7 +2,7 @@
 layout: post
 title:  "Resenha de Stalker"
 date:   2016-02-29 15:45:00
-categories: film
+categories: cultura
 header-image: "http://i.imgur.com/CIPyk5b.jpg"
 author: victor
 ---
