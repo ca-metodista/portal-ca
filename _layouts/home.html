@@ -5,7 +5,7 @@ layout: default
 {% for post in paginator.posts limit:16 %}
 {% assign author = site.data.authors[post.author] %}
 <a href="{{ post.url | prepend: site.baseurl }}" class="flexbox-item">
-	<figure style="background-image:url({{ post.header-image }});background-size:100%">
+	<figure style="background-image:url({{ post.header-image }});background-size:fixed">
 		<figcaption>{{ post.title }}</figcaption>
 		<fighidden>por {{site.data.authors[post.author].name}}</fighidden>
 	</figure>
