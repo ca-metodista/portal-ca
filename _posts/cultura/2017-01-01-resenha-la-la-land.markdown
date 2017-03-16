@@ -25,3 +25,8 @@ As atuações, química e carisma de Emma Stone e Ryan Gosling estão irretocáv
 ![](http://i.imgur.com/VELvv2L.jpg)
 
 Poético e sublime, La La Land é uma obra mágica que faz rir e chorar, é o tipo de filme que te faz se entregar e se apaixonar perdidamente.
+
+<center>
+<iframe src="https://www.youtube.com/embed/cZAw8qxn0ZE">
+</iframe>
+</center>
