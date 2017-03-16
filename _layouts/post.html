@@ -6,7 +6,7 @@ layout: default
     <div class="container">
         <div class="row">
             <div>
-                <div class="post-heading" style="background-image: url('{{ page.header-image }}')">
+                <div class="post-heading">
 		<br/><br/>
                     <h1>{{ page.title }}</h1>
                     {% if page.subtitle %}
@@ -22,7 +22,8 @@ layout: default
     <div class="container">
         <div class="row">
             <div>
-		{{ content | replace: '<!--break-->', '<a class="anchor" id="read-more"></a>' }}
+			<img class="post-icon" src="{{ page.header-image }}" style="float:left;width:440px;margin:0 12px 12px 0"/>
+			{{ content | replace: '<!--break-->', '<a class="anchor" id="read-more"></a>' }}
             </div>
         </div>
     </div>
