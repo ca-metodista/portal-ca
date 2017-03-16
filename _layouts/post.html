@@ -20,9 +20,9 @@ layout: default
 </header>
 <article>
     <div class="container">
+	    <span style="height:200px;background-image: url('{{ page.header-image }}');width:100%;display:block;border-radius:16px;background-attachment: fixed;background-position:center center;"/>
         <div class="row">
             <div>
-		        <span style="height:200px;background-image: url('{{ page.header-image }}');width:100%;display:block;border-radius:16px;background-attachment: fixed;  background-position:center center;"/>
 			{{ content | replace: '<!--break-->', '<a class="anchor" id="read-more"></a>' }}
             </div>
         </div>
