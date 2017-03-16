@@ -15,7 +15,6 @@ a:hover{color:#646464; text-decoration:none}
 a:focus{outline:none; text-decoration:none}
 h2{line-height:23px}
 img{border:none}
-img:hover{opacity:0.75}
 .img-center{display:block; margin-left:auto; margin-right:auto; text-align:center}
 .img-right{display:block; margin-left:auto}
 .img-left{display:block; margin-right:auto}
@@ -66,7 +65,6 @@ img:hover{opacity:0.75}
 .single_iteam h2 > a:hover{text-decoration:underline}
 .single_iteam h2 > a{background-color:rgba(0,0,0,.4); color:#fff; display:inline-block; font-size:20px; padding:10px;margin-top:32px}
 .content_top_right{float:left; display:inline; width:100%}
-.featured_nav{}
 .featured_nav li{display:block; float:left; height:208px; margin-bottom:10px; margin-right:10px; position:relative; width:48%}
 .featured_nav li img{width:100%; height:100%}
 .featured_nav li:hover .title_caption{height:130px; padding-top:15%}
@@ -80,9 +78,7 @@ img:hover{opacity:0.75}
 .bold_line span{ display:block; height:100%; width:100%}
 .solid_line{background-color:#fff; bottom:5px; display:block; height:1px; left:0; position:absolute; width:100%; z-index:0}
 .title_text{background-color:#f6f6f6; display:inline-block; padding:0 10px; position:relative; top:5px; z-index:1}
-.catg1_nav{}
 .catg1_nav li{float:left; display:inline; width:100%; margin-bottom:30px}
-.catg1_nav li a{}
 .catgimg_container{height:150px; overflow:hidden; width:100%; overflow:hidden}
 .catg1_img img{height:100%; width:100%; -webkit-transition:all 0.5s; -o-transition:all 0.5s; transition:all 0.5s}
 .catg1_img:hover img{ -webkit-transform:scale(1.1); -moz-transform:scale(1.1); -ms-transform:scale(1.1); -o-transform:scale(1.1); transform:scale(1.1)}
@@ -129,7 +125,6 @@ span.meta_more:before{content:" "; font-family:FontAwesome; font-style:normal
 .single_bottom_rightbar{float:left; display:inline; width:100%; margin-bottom:10px}
 .single_bottom_rightbar > h2{ color:#222; display:block; font-family:"Oswald",sans-serif; font-size:20px; font-weight:700; line-height:25px; margin:6px 0 15px; padding:0 0 13px; text-transform:uppercase; position:relative}
 .single_bottom_rightbar > h2:after{background:none repeat scroll 0 0 #798992; bottom:-3px; content:""; height:3px; left:0; position:absolute; width:45%}
-.popular_catg{}
 .popular_catg .media-left img{border:1px solid lightGrey; padding:2px}
 .popular_catg li{border-bottom:none}
 .tab-content{padding-top:20px}
@@ -228,7 +223,6 @@ span.meta_more:before{content:" "; font-family:FontAwesome; font-style:normal
 .contact_us{width:48%; position:relative; margin-top:30px; margin:20px auto}
 .our_office:before, .contact_us:before{content:""; left:0; position:absolute; top:1px; width:100%}
 .contact_us > h2{font-size:32px; margin:24px 0; text-align:center}
-.contact_form{}
 .contact_form input[type="text"], .contact_form input[type="email"]{border-radius:0; height:40px; margin-bottom:10px; width:100%}
 .contact_form textarea{width:100%; height:150px; border-radius:0px; margin-bottom:10px}
 .contact_form input[type="submit"]{float:right; height:40px; line-height:40px; width:100px; border:1px solid #ccc; -webkit-transition:all 0.5s; -mz-transition:all 0.5s; -ms-transition:all 0.5s; -o-transition:all 0.5s; transition:all 0.5s}
