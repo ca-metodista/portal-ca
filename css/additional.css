@@ -9,6 +9,12 @@ iframe{width:100%}
 	width: 100%;
 }
 
+.intro-header{
+  background-attachment: fixed;
+  background-position:center center;
+  height:20%;
+}
+
 .pagination {
 	margin: 0 auto;
 }
