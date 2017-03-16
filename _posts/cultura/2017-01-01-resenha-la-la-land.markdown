@@ -3,14 +3,12 @@ layout: post
 title:  "Resenha de La La Land"
 date:   2017-01-01 00:00:00
 categories: cultura
-header-image: "http://i.imgur.com/p5OWt.jpg"
+header-image: "http://i.imgur.com/D52jJAF.jpg"
 author: sara
 ---
 Encantador, apaixonante e contagiante, La La Land tem poderes de conquistar qualquer espectador, fã de gêneros musicais ou não, o filme fala com aquele lado sonhador que até os de coração mais duro têm e que vez ou outra fala mais alto que a razão.
 
 <!--break-->
-
-![](http://i.imgur.com/p5OWt.jpg)
 
 La La Land é uma obra singular e impecável que nos apresenta Mia (Emma Stone) e Sebastian (Ryan Gosling), uma barista apaixonada por cinema que sonha em ser atriz, e um purista pianista de Jazz que deseja abrir seu próprio clube. Ambientada em Los Angeles, homenageando a era de ouro dos musicais, a obra vai muito além de ser apenas um musical nostálgico e bonito. Com um começo otimista e sonhador, terminando com um tom realista e melancólico o longa discute sobre amor, sonhos e sacrifícios, fugindo dos clichês hollywodianos.
 
