@@ -22,7 +22,7 @@ layout: default
     <div class="container">
         <div class="row">
             <div>
-		        <div style="height:200px;background-image: url('{{ page.header-image }}');width:100%"/>
+		        <div style="height:200px;background-image: url('{{ page.header-image }}');width:100%;display:block;border-radius:16px;background-attachment: fixed"/>
 			{{ content | replace: '<!--break-->', '<a class="anchor" id="read-more"></a>' }}
             </div>
         </div>
