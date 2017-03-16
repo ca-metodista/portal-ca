@@ -8,6 +8,10 @@ iframe{width:100%}
 	display: inline-flex;
 	width: 100%;
 }
+.cartoony{
+	color:#fff;
+	text-shadow:1px 1px 1px #000;
+}
 
 .intro-header{
   background-attachment: fixed;
@@ -45,6 +49,7 @@ iframe{width:100%}
 	position: relative;
 	top: 2.3em;
 }
+
 
 .pagination-item--wide.first {
 	margin: 0 1em 0 0;
