@@ -11,7 +11,7 @@ author: lucas
 +  
 + A estrela apaixonada aguentou por um tempo ficar só olhando a amada, que brilhava de forma tão intensa. Mas um dia não aguentou mais. Precisava ficar ao lado dela. Então a estrela apaixonada reuniu todas as suas forças e saiu voando pelo universo em direção a luz radiante.
 
-+ 
++   
 + Durante muito tempo ela correu pelo espaço vazio. E quando finalmente chegou ao local onde estava a estrela que tanto amava o brilho, ela não estava mais lá. Havia morrido a muitos anos. Aquilo que via era apenas o restante de luz que ainda corria pelo infinito do universo.
 
 + 
