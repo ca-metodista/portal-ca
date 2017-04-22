@@ -4,7 +4,7 @@ title:  "Estrela cadente"
 date:   2017-04-22 18:00:00 
 header-image: "" 
 categories: cronicas 
-author: lucas laranjeira
+author: lucaslaranjeira
 --- 
 
 + Nem sempre existiram estrelas cadentes. No início de tudo, só existiam estrelas comuns. Nasciam e morriam no mesmo lugar com um único proposito: brilhar. Mas um dia uma delas se apaixonou por outra estrela. Mas essa estrela, que brilhava de forma tão intensa, estava do outro lado do universo.
