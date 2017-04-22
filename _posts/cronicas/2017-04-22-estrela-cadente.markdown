@@ -12,7 +12,7 @@ author: lucas laranjeira
 + A estrela apaixonada aguentou por um tempo ficar só olhando a amada, que brilhava de forma tão intensa. Mas um dia não aguentou mais. Precisava ficar ao lado dela. Então a estrela apaixonada reuniu todas as suas forças e saiu voando pelo universo em direção a luz radiante.
 + 
 + Durante muito tempo ela correu pelo espaço vazio. E quando finalmente chegou ao local onde estava a estrela que tanto amava o brilho, ela não estava mais lá. Havia morrido a muitos anos. Aquilo que via era apenas o restante de luz que ainda corria pelo infinito do universo.
-+ 
++ 
 + Deprimida, a estrela apaixonada ali ficou. Mas ela reparou outro brilho. Quase tão brilhante quanto o da primeira estrela. Não. Com um pouco mais de atenção, era mais brilhante até. A estrela apaixonada então recuperou as esperanças, juntou forças e voou em direção a seu novo grande amor.
 +  
 + Mas, mais uma vez, quando chegou, não havia nada. Nenhuma estrela. Nenhum brilho. E mais uma vez avistou uma nova luz, que a principio não era tão brilhante, mas com um pouco mais de atenção, possuía aquilo que tanto amava. 
