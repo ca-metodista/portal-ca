@@ -2,7 +2,7 @@
 layout: post 
 title:  "Estrela cadente" 
 date:   2017-04-22 18:00:00 
-header-image: "https://www.flickr.com/photos/scotbot/32832386053/in/photolist-S2hyvB-6EsjeP-gBSui-8Scruj-9NfdaG-bZHp4b-2G7jmy-8xFfNT-5z5857-DDm7F3-qNm6Rg-a9yKBz-9NcwEn-8S31i3-6fYwH8-9Nctax-cKYDiS-ed2EnH-99Ra4S-9Nfagb-9Nfgq5-9Nf4Ay-9NcheZ-fk3yYE-9Nf2cj-iv1dv6-9NfffL-7QTzou-TjaJc6-9Nce24-9NeX5A-bB6F1y-9Nf6Zu-9NcaJz-xnubyR-9Ncy48-7girE8-9NcohD-4LfpxA-q7Ks4W-5yZQfP-9Ncnev-88Yc1G-5P3Tka-72oTcn-5P3Txi-ebkWqr-7a9QVr-8u8ZDW-mRh1Uz" 
+header-image: "//c1.staticflickr.com/4/3670/32832386053_128f7ab302_k.jpg" 
 categories: cronicas 
 author: lucaslaranjeira
 --- 
