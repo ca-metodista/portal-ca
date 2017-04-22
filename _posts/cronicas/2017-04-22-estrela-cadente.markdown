@@ -21,4 +21,4 @@
 +  
 + Até o seu último momento de vida, a estrela não desistiu e perseguiu seu amor inalcançável. Quando ela morreu e explodiu, sua poeira se espalhou por um pedaço do universo. As estrelas que estavam naquela região, tiveram contato com aquela poeira e se apaixonaram. E todas saíram em busca de seus amores.
 +  
-+Desde então, cada vez que uma estrela morre, mais estrelas se apaixonam. E sem saber, as estrelas apaixonadas se tornaram uma esperança para aqueles que olham para o céu e esperam pelo dia em que encontrarão seu amor.
++ Desde então, cada vez que uma estrela morre, mais estrelas se apaixonam. E sem saber, as estrelas apaixonadas se tornaram uma esperança para aqueles que olham para o céu e esperam pelo dia em que encontrarão seu amor.
