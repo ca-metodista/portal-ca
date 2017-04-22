@@ -7,7 +7,7 @@ categories: cronicas
 author: lucas laranjeira
 --- 
 
-+ Nem sempre existiram estrelas cadentes. No inicio de tudo, só existiam estrelas comuns. Nasciam e morriam no mesmo lugar com um único proposito: brilhar. Mas um dia uma delas se apaixonou por outra estrela. Mas essa estrela, que brilhava de forma tão intensa, estava do outro lado do universo.
++ Nem sempre existiram estrelas cadentes. No início de tudo, só existiam estrelas comuns. Nasciam e morriam no mesmo lugar com um único proposito: brilhar. Mas um dia uma delas se apaixonou por outra estrela. Mas essa estrela, que brilhava de forma tão intensa, estava do outro lado do universo.
 +  
 + A estrela apaixonada aguentou por um tempo ficar só olhando a amada, que brilhava de forma tão intensa. Mas um dia não aguentou mais. Precisava ficar ao lado dela. Então a estrela apaixonada reuniu todas as suas forças e saiu voando pelo universo em direção a luz radiante.
 
@@ -19,7 +19,7 @@ author: lucas laranjeira
 +  
 + Mas, mais uma vez, quando chegou, não havia nada. Nenhuma estrela. Nenhum brilho. E mais uma vez avistou uma nova luz, que a principio não era tão brilhante, mas com um pouco mais de atenção, possuía aquilo que tanto amava. 
 +  
-+ E por varias e varias vezes, a estrela apaixonada voou pelo universo em busca de um amor, e em todas as vezes, ele não estava lá. 
++ E por várias e várias vezes, a estrela apaixonada voou pelo universo em busca de um amor, e em todas as vezes, ele não estava lá. 
 +  
 + Até o seu último momento de vida, a estrela não desistiu e perseguiu seu amor inalcançável. Quando ela morreu e explodiu, sua poeira se espalhou por um pedaço do universo. As estrelas que estavam naquela região, tiveram contato com aquela poeira e se apaixonaram. E todas saíram em busca de seus amores.
 +  
