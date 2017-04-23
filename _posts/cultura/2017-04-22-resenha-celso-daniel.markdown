@@ -7,9 +7,7 @@ categories: cultura
 author: caique
 --- 
 
-
-
-
+<br><br><br>
 
 Considerado um dos fatos que mais mudou a trajetória política do PT, o assassinato de Celso Daniel, então prefeito de Santo André, em 2002, realça até hoje o imaginário popular acerca das motivações da execução da vítima.
 
