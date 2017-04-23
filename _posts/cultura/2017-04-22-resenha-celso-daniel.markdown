@@ -7,6 +7,10 @@ categories: cultura
 author: caique
 --- 
 
+
+
+
+
 Considerado um dos fatos que mais mudou a trajetória política do PT, o assassinato de Celso Daniel, então prefeito de Santo André, em 2002, realça até hoje o imaginário popular acerca das motivações da execução da vítima.
 
 Naquele ano, o ex-presidente Luiz Inácio Lula da Silva seria eleito para seu primeiro mandato no Executivo federal e, coincidentemente, – ou não – Celso havia sido designado para ser o coordenador de campanha da corrida à presidência da República.
