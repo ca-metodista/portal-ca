@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title:  "Resenha de "Celso Daniel - Política, Corrupção e Morte no coração do PT"" 
+title:  "Resenha de 'Celso Daniel - Política, Corrupção e Morte no coração do PT'" 
 date:   2017-04-22 18:00:00 
 header-image: "http://imgur.com/7X6cy9h.png" 
 categories: cultura 
