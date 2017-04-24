@@ -16,6 +16,7 @@ Naquele ano, o ex-presidente Luiz Inácio Lula da Silva seria eleito para seu pr
 Apesar da aura misteriosa que paira sobre o caso, mesmo após 14 anos do assassinato nenhuma análise mais profunda fora publicada, assim como nenhum autor havia decidido se debruçar em uma investigação de fôlego sobre a polêmica morte do ex-prefeito.
 
 Foi com essa proposta, no entanto, que o jornalista Silvio Navarro, hoje editor de Veja, publicou, em 2016, o livro Celso Daniel – Política, Corrupção e Morte no Coração do PT.
+
 Segundo o próprio autor, a obra seria uma espécie de grande reportagem em ritmo de thriller, que reúne fatos novos e esclarecedores sobre o que aconteceu durante o sequestro e a morte do petista. Tudo isso, além de “reconstruir, em detalhes, a sofisticada máquina de desvio de recursos públicos e pagamentos de propina armada naquela cidade”.
 
 Aqui não me compete fazer julgamentos sobre a morte de Celso Daniel em si, mas refletir sobre os critérios utilizados para que o livro fosse escrito.
