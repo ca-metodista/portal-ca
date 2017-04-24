@@ -2,7 +2,7 @@
 layout: post 
 title:  "Suas composições que não fiz" 
 date:   2017-04-22 18:00:00 
-header-image: "https://geo.yahoo.com/b?s=792600534" 
+header-image: "//c1.staticflickr.com/4/3199/2913037774_283813169d_b.jpg" 
 categories: cronicas 
 author: amanda
 --- 
