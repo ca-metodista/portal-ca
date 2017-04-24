@@ -2,7 +2,7 @@
 layout: post 
 title:  "Resenha de 'Celso Daniel - Política, Corrupção e Morte no coração do PT'" 
 date:   2017-04-22 18:00:00 
-header-image: "https://www.radioabc.com.br/wp-content/uploads/2016/10/LIVRO-CASO-CELSO-DANIEL-19016.jpg" 
+header-image: "http://www.blogdaeditorarecord.com.br/wp-content/uploads/2016/11/BANNER-Celso-Daniel_02.png" 
 categories: cultura 
 author: caique
 --- 
